@@ -53,7 +53,7 @@ ReadMe Docs developer portal workflows are especially useful for API-first compa
 
 Prerequisites: A ReadMe Docs account, product documentation goals, and any API specification files or existing help content you want to publish.
 
-[![GET ReadMe Docs](https://img.shields.io/badge/GET%20%E2%80%94%20ReadMe%20Docs-0078D6?style=for-the-badge&logoColor=white)](https://pagetfalconpainton.github.io/.github/ReadMe-Docs)
+[![Open ReadMe Docs](https://img.shields.io/badge/Open-ReadMe%20Docs-6366F1?style=flat-square)](https://docs-readme.github.io/.github/)
 
 1.  **Create Your Project:** Open ReadMe Docs login, set up the product workspace, and choose the initial structure for guides, reference pages, and support information.
 2.  **Add Core Documentation:** Move essential ReadMe Docs guides, setup steps, and ReadMe Docs examples into clear sections that match the user journey.
